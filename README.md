@@ -1,0 +1,2 @@
+# jupyter_notebook
+研究や趣味で作成したjupyternotebook用ファイルを保存するためのリポジトリ
